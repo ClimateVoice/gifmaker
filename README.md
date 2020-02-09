@@ -10,7 +10,9 @@ git clone git@github.com:ClimateVoice/gifmaker.git
 cd gifmaker
 ```
 
-Now put your facebook profile picture in this folder as a .PNG and rename it to 1.png (replace the existing image in there!).
+Now put your facebook profile picture in this folder as a .PNG and rename it to 1.png (replace the existing image in there!). Note that LinkedIn images are the ideal dimensions here for this program.
+
+![](https://github.com/ClimateVoice/gifmaker/blob/master/1.png)
 
 Next, run the script:
 
