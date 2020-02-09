@@ -20,7 +20,7 @@ python3 create_gif.py
 
 Now you have a gif that you can use for your Facebook profile picture, like the one below.
 
-![]()
+![](https://github.com/ClimateVoice/gifmaker/blob/master/Gif-2020-43-07-16-43-07.gif?raw=true)
 
 ## A bit more about ClimateVoice
 Our mission is to mobilize the voice of the workforce to urge companies to go “all in” on climate, both in business practices and policy advocacy.
