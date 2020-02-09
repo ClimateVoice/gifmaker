@@ -26,7 +26,7 @@ Now you have a gif like the one below (Gif-2020-43-07-16-43-07.png).
 
 Lastly, make this your new Twitter, LinkedIn, or Facebook profile picture to help spread the word!! :)
 
-## Alternatives
+## Alternative using giphy
 
 Alternatively, you could use the [gifmaker on giphy](https://giphy.com/create/gifmaker). Just upload your three images (profile picture, 2.png, 3.png) and it will create/host the gif for you! If you pursue this option, here are the other 2 pictures you need:
 
