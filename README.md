@@ -7,7 +7,7 @@ First, clone this repository:
 
 ```
 git clone git@github.com:ClimateVoice/gifmaker.git
-cd
+cd gifmaker
 ```
 
 Now put your facebook profile picture in this folder.
