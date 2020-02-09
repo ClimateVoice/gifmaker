@@ -1,5 +1,5 @@
 # gifmaker
-Upload your facebook picture and create an #allinonclimate gif.
+Upload your facebook picture and create an #AllinOnClimate gif.
 
 ## Instructions
 
