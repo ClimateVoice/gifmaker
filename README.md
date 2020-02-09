@@ -6,7 +6,7 @@ Upload your facebook picture and create an #allinonclimate gif.
 First, clone this repository:
 
 ```
-git clone 
+git clone git@github.com:ClimateVoice/gifmaker.git
 cd
 ```
 
@@ -15,7 +15,7 @@ Now put your facebook profile picture in this folder.
 Next, run the script:
 
 ```
-python3 
+python3 create_gif.py
 ```
 
 Now you have a gif that you can use for your Facebook profile picture, like the one below.
@@ -23,7 +23,7 @@ Now you have a gif that you can use for your Facebook profile picture, like the 
 ![]()
 
 ## A bit more about ClimateVoice
-ClimateVoice is ...
+Our mission is to mobilize the voice of the workforce to urge companies to go “all in” on climate, both in business practices and policy advocacy.
 
 ## References
 * [ClimateVoice website](https://climatevoice.org)
