@@ -20,7 +20,7 @@ Next, run the script:
 python3 create_gif.py
 ```
 
-Now you have a gif like the one below.
+Now you have a gif like the one below (Gif-2020-43-07-16-43-07.png).
 
 ![](https://github.com/ClimateVoice/gifmaker/blob/master/Gif-2020-43-07-16-43-07.gif?raw=true)
 
