@@ -28,7 +28,10 @@ Lastly, make this your new Twitter, LinkedIn, or Facebook profile picture to hel
 
 ## Alternatives
 
-Alternatively, you could use the [gifmaker on giphy](https://giphy.com/create/gifmaker). Just upload your three images (profile picture, 2.png, 3.png) and it will create/host the gif for you! 
+Alternatively, you could use the [gifmaker on giphy](https://giphy.com/create/gifmaker). Just upload your three images (profile picture, 2.png, 3.png) and it will create/host the gif for you! If you pursue this option, here are the other 2 pictures you need:
+
+![](https://github.com/ClimateVoice/gifmaker/blob/master/2.png)
+![](https://github.com/ClimateVoice/gifmaker/blob/master/3.png)
 
 ## A bit more about ClimateVoice
 Our mission is to mobilize the voice of the workforce to urge companies to go “all in” on climate, both in business practices and policy advocacy.
