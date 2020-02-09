@@ -10,7 +10,7 @@ git clone git@github.com:ClimateVoice/gifmaker.git
 cd gifmaker
 ```
 
-Now put your facebook profile picture in this folder.
+Now put your facebook profile picture in this folder as a .PNG and rename it to 1.png (replace the existing image in there!).
 
 Next, run the script:
 
