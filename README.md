@@ -34,7 +34,7 @@ Alternatively, you could use the [gifmaker on giphy](https://giphy.com/create/gi
 ![](https://github.com/ClimateVoice/gifmaker/blob/master/3.png)
 
 ## A bit more about ClimateVoice
-Our mission is to mobilize the voice of the workforce to urge companies to go “all in” on climate, both in business practices and policy advocacy.
+Our mission is to mobilize the voice of the workforce to urge companies to go “all in” on climate, both in business practices and policy advocacy. More info @ https://climatevoice.org 
 
 ## References
 * [ClimateVoice website](https://climatevoice.org)
