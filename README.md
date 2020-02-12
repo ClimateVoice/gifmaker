@@ -17,6 +17,8 @@ Now put your facebook profile picture in this folder as a .PNG and rename it to 
 Next, run the script:
 
 ```
+virtualenv myenv
+pip3 install requirements.txt
 python3 create_gif.py
 ```
 
