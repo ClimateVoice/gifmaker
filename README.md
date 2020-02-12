@@ -19,7 +19,7 @@ Next, run the script:
 ```
 virtualenv myenv
 source myenv/bin/activate
-pip3 install requirements.txt
+pip install -r requirements.txt
 python3 create_gif.py
 ```
 
